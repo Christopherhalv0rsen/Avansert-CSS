@@ -1,0 +1,22 @@
+header nav h3 {
+    float: left;
+}
+
+header nav ul {
+    float: right; 
+}
+
+header nav ul li {
+    display: inline-block;
+}
+header nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+nav {
+    overflow: auto;
+    background-color: rgb(87, 162, 209);
+    padding: 1rem;
+}
+
+
